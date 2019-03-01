@@ -69,8 +69,7 @@
         |1 |2  |North  |The bus is currently parked at X: 1 and Y: 3, facing east  |
         |1 |2  |East   |The bus is currently parked at X: 2 and Y: 2, facing south |
         |1 |2  |West   |The bus is currently parked at X: 0 and Y: 2, facing north |
-        # Test failing
-        |1 |2  |South  |The bus is currently parked at X: 1 and Y: 2, facing west  |
+        |1 |2  |South  |The bus is currently parked at X: 1 and Y: 1, facing west  |
 
     Scenario Outline: Right and Left action
         And bus is turned right
