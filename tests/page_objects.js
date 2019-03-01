@@ -1,6 +1,6 @@
 module.exports = {
   url: 'https://accordo-it.github.io/carpark/',
- elements: {
+    elements: {
 
      xPosition: {
        //selector: '//select[@name="positionX"]',
